@@ -1,0 +1,23 @@
+
+
+
+
+.odd-base {
+  background-color: pink;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.font{
+  font-size: 24px;
+}
+
+#number2-div{
+  color: blue;
+  font-size: 36px;
+}
+
+#number4-div{
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}

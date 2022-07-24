@@ -11,5 +11,6 @@ Issues with the cascade can be the bane of their existence for many when it come
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- Did you make sure to not edit the HTML file?
-- If you added selectors to the CSS, do they target a valid HTML element?
+- Did you make sure to not edit the HTML file? Yes
+- If you added selectors to the CSS, do they target a valid HTML element? At the end
+the div.text, I cascade it's style down to it's descendants .child or div.text .child.

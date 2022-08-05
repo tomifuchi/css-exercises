@@ -7,6 +7,7 @@ All you need to do is center the red div inside the blue container.
 ![outcome](./desired-outcome.png)
 
 ### Self Check
-- Is the red div centered?
-- Did you _only_ use flexbox to center it?
-
+- Is the red div centered? Yep.
+- Did you _only_ use flexbox to center it? Yes, it should be using
+2 flexbox propertises, justify-content and align-items. Both of these
+should be set to center.
